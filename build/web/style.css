@@ -1,0 +1,24 @@
+
+/* 
+    Created on : Jun 12, 2015, 1:44:19 PM
+    Author     : Jin Hwan Oh
+    Sheridan Id: ohjinh
+    Student Number: 991 381 235
+*/
+body{
+    text-align: center;
+}
+#home_form{
+    margin: 4px;
+}
+input{
+    margin: 3px;
+}
+
+#invalid_msg, #wrongUser{
+    color:red;
+}
+
+tr{
+    margin: 3px;
+}
